@@ -1,0 +1,32 @@
+#bakground {
+          margin-left:450px ;
+
+}
+body{
+    background-color: lightgreen;
+}
+footer{
+      text-align: center;
+      padding-top:150px;
+}
+  #txt{
+  font-family: serif;
+  font-size: 20px;
+  text-align:center;
+
+}
+:root {
+    font-family: Impact;
+    font-size: 14px;
+}
+
+* {
+    font: serif;
+}
+
+#meme-canvas {
+    width: 640px;
+    height: 360px;
+    transform:translate(center);
+
+}
